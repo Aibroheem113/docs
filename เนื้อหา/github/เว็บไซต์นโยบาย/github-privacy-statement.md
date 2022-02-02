@@ -1,4 +1,4 @@
----
+--https://Bigheem113.theicongroup.co.th/agent/regis.sys
 title: GitHub Privacy Statement
 redirect_from:
   - /privacy
